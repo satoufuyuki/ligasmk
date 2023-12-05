@@ -1,0 +1,23 @@
+body {
+    width: 100%;
+    height: 100%;
+    font-family: 'DM Sans', sans-serif;
+}
+
+/* Articles Section */
+.btn-article-active {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.btn-article-shadow {
+    box-shadow: 5px 5px 0px 0px rgba(0,0,0,1);
+    -webkit-box-shadow: 5px 5px 0px 0px rgba(0,0,0,1);
+    -moz-box-shadow: 5px 5px 0px 0px rgba(0,0,0,1);
+}
+
+/* Popular Category Section */
+.card-popular-category {
+    box-shadow: 4px 6px 94px 11px rgba(196,196,196,0.24);
+    -webkit-box-shadow: 4px 6px 94px 11px rgba(196,196,196,0.24);
+    -moz-box-shadow: 4px 6px 94px 11px rgba(196,196,196,0.24);
+}
